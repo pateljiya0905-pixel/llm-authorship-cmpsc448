@@ -2,7 +2,7 @@
 
 # Who Wrote It? Identifying LLMs from Their Responses
 
-CMPSC 448 Midterm Project by Jiya Patel 
+CMPSC 448 Midterm Project by Jiya Patel - Solo
 
 Classifies which LLM family (GPT, Claude, Llama, Mistral, Google) wrote a response, using a CNN and a bidirectional LSTM in PyTorch.
 
